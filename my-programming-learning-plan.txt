@@ -1,0 +1,5 @@
+My Programming Learning Plan for 2025 :
+- HTML Basics / Semantic HTML
+- CSS Fundamental
+- CSS Layout (Flexbox / Grid)
+- Javascript Basic
