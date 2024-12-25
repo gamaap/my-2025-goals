@@ -6,6 +6,7 @@ Front-End
 - CSS Layout (Flexbox / Grid)
 - Tailwind CSS Framework
 - Javascript Basic
+- React Framework
 
 Back-End
 - PHP Basic
