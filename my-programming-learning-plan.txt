@@ -7,9 +7,12 @@ Front-End
 - Tailwind CSS Framework
 - Javascript Basic
 - React Framework
+- Vue Framework
+- Next.js
 
 Back-End
 - PHP Basic
 - PHP OOP
 - PHP MVC
 - Laravel Framework
+- CodeIgniter Framework
