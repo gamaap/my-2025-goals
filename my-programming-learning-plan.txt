@@ -3,7 +3,6 @@ My Programming Learning Plan for 2025 :
 Front-End
 - HTML Basics / Semantic HTML
 - CSS Fundamental
-- CSS Layout (Flexbox / Grid)
 - Tailwind CSS Framework
 - Javascript Basic
 - React Framework
