@@ -1,5 +1,13 @@
 My Programming Learning Plan for 2025 :
+
+Front-End
 - HTML Basics / Semantic HTML
 - CSS Fundamental
 - CSS Layout (Flexbox / Grid)
 - Javascript Basic
+
+Back-End
+- PHP Basic
+- PHP OOP
+- PHP MVC
+- Laravel Framework
